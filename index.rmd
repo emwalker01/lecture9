@@ -1,5 +1,5 @@
 ---
-title: "lecture9"
+title: "My Project Draft"
 output:
   html_document:
     df_print: paged
@@ -10,9 +10,11 @@ date: "2024-11-07"
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## R Markdown
+## Plan & Data
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+Something here about the data that I decide to use. These sections will show up as text when converted to a webpage. Any bits in the grey will run as code e.g. showing the data I chose by using the head command.
+
+For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
 
 When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
 
